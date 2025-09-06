@@ -23,10 +23,10 @@ The Histogram of gray scale image and color image is shown.
 
 
 ## Program:
-```
+
 ## Developed By:Kesav Deepak Sridharan
 ## Register Number: 212223230104
-```
+
 
 ### Grayscale image and Color image
 ```
