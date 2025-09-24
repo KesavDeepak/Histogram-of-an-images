@@ -88,6 +88,8 @@ cv2.destroyAllWindows()
 
 <img width="821" height="427" alt="image" src="https://github.com/user-attachments/assets/9764068b-00b8-48d0-bc98-ac056bbde303" />
 
+<img width="1031" height="470" alt="image" src="https://github.com/user-attachments/assets/8a226cb4-f2aa-426f-89fd-7e0bd1d7d2ac" />
+
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
